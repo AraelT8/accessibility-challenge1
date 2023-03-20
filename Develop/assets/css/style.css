@@ -1,37 +1,39 @@
+/*Sets the whole page to have a border box with a padding and margin of 0*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/*Sets the background color of everything found inside the body element*/
 body {
     background-color: #d9dcd6;
 }
+/*Sets the color of text within anchor elements to white*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*Sets the font size of strings inside paragraph elements to 16 px*/
 p {
     font-size: 16px;
 }
-
+/*Sets the formatting for the elements inside header class */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*Sets h1 inside the header class to display inline and to a font size of 48px*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/*child element within the header h1 class to set the seo found in Hori"seo"n to a different color*/
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*Sets the formatting for the content found inside the div element inside the header class*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -39,16 +41,16 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/*Sets unordered list style type to none*/
 .header div ul {
     list-style-type: none;
 }
-
+/*format for list items inside the unordered list*/
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/*Displays the image digital -marketing-meeting.jpg after the header class with the specified formatting*/
 .hero {
     height: 800px;
     width: 100%;
@@ -57,12 +59,13 @@ p {
     background-size: cover;
     background-position: center;
 }
+/*sets the formatting for the content class*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/*Specifies how a box should be floated*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -72,7 +75,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/*Sets the formatting for the benefits class*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -83,7 +86,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Grouped classes that contained same formatting to reduce redundancy found within code*/
 .benefit-lead,.benefit-brand,
 .benefit-cost {
     margin-bottom: 32px;
@@ -123,14 +126,14 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* sets formatting for the footer class */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* sets formatting  */
 .footer h2 {
     font-size: 20px;
 }
