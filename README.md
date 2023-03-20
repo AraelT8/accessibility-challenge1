@@ -12,9 +12,10 @@ Credits
 N/A
 
 ScreeenShots
-![image](https://user-images.githubusercontent.com/60860293/226476373-0ef97fd8-a5c6-4377-878d-2497f14904e3.png)
+![image](https://user-images.githubusercontent.com/60860293/226483518-12c5bc30-711a-494a-9e76-3d66c3b84177.png)
 
-![image](https://user-images.githubusercontent.com/60860293/226476606-39c2e3dd-fdbc-46c9-bf52-6d93ead68ae2.png)
+![image](https://user-images.githubusercontent.com/60860293/226483629-94da3f63-554d-4b71-834c-3957b4247e2e.png)
+
 
 Links
 https://araelt8.github.io/accessibility-challenge1/
