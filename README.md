@@ -1,6 +1,7 @@
 Hanseo-Seacrh Engine Optimization Challenge #1
 
 Description
+
 This Challenge Number #1 was done to teach bootcamp students about website accessibility, optimizing your website to have better results in search engines. It also gives students to engage with optimizing code by improving the codebase for long-term sustainability.
 
 Installation
