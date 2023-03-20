@@ -6,7 +6,7 @@ Installation
 N/A
 
 Usage
-Using this Website review the imprtance of optimizing your website for search engines by clicking the links found in the top right of the page to quickly navigate to each corresponding section tha contains relevant info.
+Using this Website review the importance of optimizing your website for search engines by clicking the links found in the top right of the page to quickly navigate to each corresponding section that contains relevant info.
 
 Credits
 N/A
